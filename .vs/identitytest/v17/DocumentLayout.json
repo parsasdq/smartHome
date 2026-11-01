@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\497111e1ae9fe56f4f4164b3aaca91ef0e73bb8307dac605789a5096ee1bbf07\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\ab72374d33fa2ff2be657f22843739adfec336677874089d5a49ca7d31cc0f37\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\data\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\data\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\reftoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\entity\\reftoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\dtos\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\migrations\\20261025082556_addrefreshtokens2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\migrations\\20261025082556_addrefreshtokens2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\migrations\\20261025081532_addrefreshtokens1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\migrations\\20261025081532_addrefreshtokens1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\identitytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|c:\\users\\parsa\\desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B952B073-1216-4F6A-8DF4-473EB939E526}|identitytest\\identitytest.csproj|solutionrelative:identitytest\\identitytest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\appsettings.json",
+              "RelativeDocumentMoniker": "identitytest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\appsettings.json",
+              "RelativeToolTip": "identitytest\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T22:46:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "authcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\controller\\authcontroller.cs",
+              "RelativeDocumentMoniker": "identitytest\\controller\\authcontroller.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\controller\\authcontroller.cs",
+              "RelativeToolTip": "identitytest\\controller\\authcontroller.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:15:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Program.cs",
+              "RelativeDocumentMoniker": "identitytest\\Program.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Program.cs",
+              "RelativeToolTip": "identitytest\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:52:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "refToken.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\refToken.cs",
+              "RelativeDocumentMoniker": "identitytest\\entity\\refToken.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\refToken.cs",
+              "RelativeToolTip": "identitytest\\entity\\refToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T10:07:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "identitytest\\services\\RefreshTokenService.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\RefreshTokenService.cs",
+              "RelativeToolTip": "identitytest\\services\\RefreshTokenService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T11:31:01.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTservice.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\JWTservice.cs",
+              "RelativeDocumentMoniker": "identitytest\\services\\JWTservice.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\services\\JWTservice.cs",
+              "RelativeToolTip": "identitytest\\services\\JWTservice.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:50:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\497111e1ae9fe56f4f4164b3aaca91ef0e73bb8307dac605789a5096ee1bbf07\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\497111e1ae9fe56f4f4164b3aaca91ef0e73bb8307dac605789a5096ee1bbf07\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\497111e1ae9fe56f4f4164b3aaca91ef0e73bb8307dac605789a5096ee1bbf07\\ResourceInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\497111e1ae9fe56f4f4164b3aaca91ef0e73bb8307dac605789a5096ee1bbf07\\ResourceInvoker.cs [Read Only]",
+              "ViewState": "AgIAALYBAAAAAAAAAAAhwMIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:37:54.705Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs [Read Only]",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAhwKsAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:37:21.828Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\ab72374d33fa2ff2be657f22843739adfec336677874089d5a49ca7d31cc0f37\\ControllerActionInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ab72374d33fa2ff2be657f22843739adfec336677874089d5a49ca7d31cc0f37\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Parsa\\AppData\\Local\\Temp\\.vsdbgsrc\\ab72374d33fa2ff2be657f22843739adfec336677874089d5a49ca7d31cc0f37\\ControllerActionInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ab72374d33fa2ff2be657f22843739adfec336677874089d5a49ca7d31cc0f37\\ControllerActionInvoker.cs [Read Only]",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAhwPQBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:37:49.269Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\User.cs",
+              "RelativeDocumentMoniker": "identitytest\\entity\\User.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\entity\\User.cs",
+              "RelativeToolTip": "identitytest\\entity\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:46:01.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appdbcontex.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Data\\appdbcontex.cs",
+              "RelativeDocumentMoniker": "identitytest\\Data\\appdbcontex.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Data\\appdbcontex.cs",
+              "RelativeToolTip": "identitytest\\Data\\appdbcontex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:28:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "servicecollectionextension.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\extensions\\servicecollectionextension.cs",
+              "RelativeDocumentMoniker": "identitytest\\extensions\\servicecollectionextension.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\extensions\\servicecollectionextension.cs",
+              "RelativeToolTip": "identitytest\\extensions\\servicecollectionextension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T08:13:14.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJWTservice.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\IJWTservice.cs",
+              "RelativeDocumentMoniker": "identitytest\\interfaces\\IJWTservice.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\IJWTservice.cs",
+              "RelativeToolTip": "identitytest\\interfaces\\IJWTservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:49:20.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\registerDTO.cs",
+              "RelativeDocumentMoniker": "identitytest\\DTOs\\registerDTO.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\registerDTO.cs",
+              "RelativeToolTip": "identitytest\\DTOs\\registerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:12:44.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RefreshTokenRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\RefreshTokenRequestDTO.cs",
+              "RelativeDocumentMoniker": "identitytest\\DTOs\\RefreshTokenRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\RefreshTokenRequestDTO.cs",
+              "RelativeToolTip": "identitytest\\DTOs\\RefreshTokenRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T11:48:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\loginDTO.cs",
+              "RelativeDocumentMoniker": "identitytest\\DTOs\\loginDTO.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\DTOs\\loginDTO.cs",
+              "RelativeToolTip": "identitytest\\DTOs\\loginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:36:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRefreshTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\IRefreshTokenService.cs",
+              "RelativeDocumentMoniker": "identitytest\\interfaces\\IRefreshTokenService.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\interfaces\\IRefreshTokenService.cs",
+              "RelativeToolTip": "identitytest\\interfaces\\IRefreshTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T11:28:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20261025081532_AddRefreshTokens1.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Migrations\\20261025081532_AddRefreshTokens1.cs",
+              "RelativeDocumentMoniker": "identitytest\\Migrations\\20261025081532_AddRefreshTokens1.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Migrations\\20261025081532_AddRefreshTokens1.cs",
+              "RelativeToolTip": "identitytest\\Migrations\\20261025081532_AddRefreshTokens1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:16:07.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20261025082556_AddRefreshTokens2.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Migrations\\20261025082556_AddRefreshTokens2.cs",
+              "RelativeDocumentMoniker": "identitytest\\Migrations\\20261025082556_AddRefreshTokens2.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\Migrations\\20261025082556_AddRefreshTokens2.cs",
+              "RelativeToolTip": "identitytest\\Migrations\\20261025082556_AddRefreshTokens2.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T08:26:35.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "identitytest.csproj",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.csproj",
+              "RelativeDocumentMoniker": "identitytest\\identitytest.csproj",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.csproj",
+              "RelativeToolTip": "identitytest\\identitytest.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T22:45:31.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "identitytest.http",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.http",
+              "RelativeDocumentMoniker": "identitytest\\identitytest.http",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\projects\\\u0641\u0631\u0627\u062F\u0631\u0633\\start\\identitytest\\identitytest\\identitytest.http",
+              "RelativeToolTip": "identitytest\\identitytest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-19T08:52:11.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

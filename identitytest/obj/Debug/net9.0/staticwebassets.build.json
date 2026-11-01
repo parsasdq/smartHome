@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w1q2BxB7EmRJMp9MAkHzfjBqiNVE5fFp6INtpTp5tBE=",
+  "Source": "identitytest",
+  "BasePath": "_content/identitytest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
