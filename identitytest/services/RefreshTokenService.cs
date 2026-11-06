@@ -64,14 +64,16 @@ public class RefreshTokenService : IRefreshTokenService
         return true;
     }
     public async Task<User?> RotateRefreshTokenAsync(
-    string currentRefreshToken,
-    string newRefreshToken)
+     string currentRefreshToken,
+     string newRefreshToken)
     {
         if (string.IsNullOrWhiteSpace(currentRefreshToken) ||
             string.IsNullOrWhiteSpace(newRefreshToken))
         {
             return null;
         }
+
+        var now = DateTime.UtcNow;
 
         var currentHash = Convert.ToHexString(
             SHA256.HashData(
@@ -82,24 +84,31 @@ public class RefreshTokenService : IRefreshTokenService
             .FirstOrDefaultAsync(t => t.TokenHash == currentHash);
 
         if (token is null ||
-            token.ExpiresAt <= DateTime.UtcNow ||
-            token.RevokedAt is not null)
+            token.ExpiresAt <= now ||
+            token.RevokedAt is not null ||
+            token.User is null)
         {
             return null;
         }
 
-        token.RevokedAt = DateTime.UtcNow;
+        // Revoke old refresh token
+        token.RevokedAt = now;
 
+        // Hash new refresh token
         var newTokenHash = Convert.ToHexString(
             SHA256.HashData(
                 Encoding.UTF8.GetBytes(newRefreshToken)));
 
-        _context.RefreshTokens.Add(new RefreshToken
+        // Save new refresh token
+        var newToken = new RefreshToken
         {
             UserId = token.UserId,
             TokenHash = newTokenHash,
-            ExpiresAt = DateTime.UtcNow.AddDays(7)
-        });
+            CreatedAt = now,
+            ExpiresAt = now.AddDays(7)
+        };
+
+        _context.RefreshTokens.Add(newToken);
 
         await _context.SaveChangesAsync();
 

@@ -147,3 +147,4 @@ C:\Users\Parsa\Desktop\projects\فرادرس\start\identitytest\identitytest\obj
 C:\Users\Parsa\Desktop\projects\فرادرس\start\identitytest\identitytest\obj\Debug\net9.0\identitytest.genruntimeconfig.cache
 C:\Users\Parsa\Desktop\projects\فرادرس\start\identitytest\identitytest\obj\Debug\net9.0\ref\identitytest.dll
 C:\Users\Parsa\Desktop\projects\فرادرس\start\identitytest\identitytest\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Parsa\Desktop\projects\فرادرس\start\identitytest\identitytest\obj\Debug\net9.0\identitytest.sourcelink.json

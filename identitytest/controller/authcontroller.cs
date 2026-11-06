@@ -17,11 +17,12 @@ public class AuthController : ControllerBase
     private readonly IJWTservice _jwtService;
     private readonly IRefreshTokenService _refreshTokenService;
     private readonly AppDbContext _context;
-    public AuthController(UserManager<User> userManager,IJWTservice jWTservice, AppDbContext context)
+    public AuthController(UserManager<User> userManager,IJWTservice jWTservice, AppDbContext context, IRefreshTokenService refreshTokenService)
     {
         _userManager = userManager;
         _jwtService = jWTservice;
         _context = context;
+        _refreshTokenService = refreshTokenService;
     }
 
     [HttpPost("register")]
@@ -52,7 +53,7 @@ public class AuthController : ControllerBase
         }
         string refToken = _jwtService.GenerateRefToken();
         string token = _jwtService.GenerateToken(user);
-
+        await _refreshTokenService.SaveRefreshTokenAsync(user, refToken);
         return Ok(new
         {
             message = "User registered successfully.",
@@ -108,6 +109,7 @@ public class AuthController : ControllerBase
         // تولید JWT
         string token = _jwtService.GenerateToken(user);
         string refToken = _jwtService.GenerateRefToken();
+        await _refreshTokenService.SaveRefreshTokenAsync(user, refToken);
         return Ok(new
         {
             message = "Login successful.",
@@ -125,9 +127,8 @@ public class AuthController : ControllerBase
     public async Task<IActionResult> Refresh(
     [FromBody] RefreshTokenRequestDTO request)
     {
-        var newRefreshToken = _jwtService.GenerateRefToken();
-
-        var user = await _refreshTokenService.RotateRefreshTokenAsync(
+        string newRefreshToken = _jwtService.GenerateRefToken();
+        User? user = await _refreshTokenService.RotateRefreshTokenAsync(
             request.RefreshToken,
             newRefreshToken);
         
